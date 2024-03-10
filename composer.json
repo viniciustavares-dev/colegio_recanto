@@ -1,0 +1,15 @@
+{
+    "name": "sique/projeto_recanto",
+    "description": "exercico proposto do colegio recanto",
+    "require-dev": {
+        "pdo": "^7.4",
+        "ext-pdo": "*"
+    },
+    "authors": [
+        {
+            "name": "Vinicius Tavares",
+            "email": "siqueiravinicius@yahoo.com.br"
+        }
+    ],
+    "require": {}
+}
